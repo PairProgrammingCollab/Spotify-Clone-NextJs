@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint", // ESLint
+    "esbenp.prettier-vscode", // Prettier
+    "bradlc.vscode-tailwindcss", // Tailwind CSS
+    "streetsidesoftware.code-spell-checker", // Spell checker (optional)
+    "formulahendry.auto-close-tag", // Auto close HTML/JSX tags
+    "formulahendry.auto-rename-tag", // Auto rename paired HTML/JSX tags
+    "yoavbls.pretty-ts-errors", // Pretty TypeScript errors (optional)
+    "GitHub.copilot", // GitHub Copilot (optional)
+    "mhutchie.git-graph" // Git Graph (optional)
+  ]
+}
